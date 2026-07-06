@@ -14,8 +14,7 @@ endif::[]
 = Using Jenkins
 
 This chapter contains topics for typical Jenkins users (of all skill levels)
-about Jenkins usage which is outside the scope of the core Jenkins feature:
-Pipeline.
+about Jenkins Pipeline.
 
 If you want to create and configure a Pipeline project through a `Jenkinsfile`
 or you wish to find out more about this core Jenkins
