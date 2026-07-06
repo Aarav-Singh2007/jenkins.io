@@ -123,7 +123,7 @@ Jenkinsfile successfully validated.
 == Pipeline Graph View
 
 The link:https://plugins.jenkins.io/pipeline-graph-view/[Pipeline Graph View plugin] provides a modern, detailed structural view of all the stages, parallel branches, and steps in a Pipeline.
-While it does not edit pipelines, it is an invaluable visualization tool during development to ensure that your Pipeline's structure is correct and to monitor its execution step-by-step.
+It is an invaluable visualization tool during development to ensure that your Pipeline's structure is correct and to monitor its execution step-by-step.
 
 [[replay]]
 == "Replay" Pipeline Runs with Modifications
