@@ -68,9 +68,9 @@ that point on, the Pipeline will run as normal.
 
 ===== Restarting from Pipeline Graph View
 
-Restarting stages can also be done visually using the link:https://plugins.jenkins.io/pipeline-graph-view/[Pipeline Graph View plugin]. Once your Pipeline has completed, whether it succeeds
-or fails, you can click on the stage you wish to restart. You can then click the `Restart` button for
-that stage within the details panel.
+Restarting stages can also be done visually using the link:https://plugins.jenkins.io/pipeline-graph-view/[Pipeline Graph View plugin].
+Once your Pipeline has completed, whether it succeeds or fails, you can click on the stage you wish to restart.
+You can then click the `Restart` button for that stage within the details panel.
 
 image::pipeline/pipeline-restart-stages-graph-view.png[alt="Jenkins pipeline visualization in Graph view plugin Dashboard showing the stages of a successful pipeline run. The stages include Start, Build, Some Tests, Browser Tests (with Chrome, Firefox, Internet Explorer, and Safari sub-stages), Testing Some Other Things, Static Analysis, and Deploy."]
 
