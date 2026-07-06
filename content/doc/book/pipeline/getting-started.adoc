@@ -365,7 +365,8 @@ This plugin provides a modern, detailed view of your Pipeline's progress, includ
 3. In-line access to step-by-step logs.
 4. Ability to restart the Pipeline from specific stages.
 
-To take full advantage of these features, ensure the Pipeline Graph View plugin is installed on your Jenkins controller. You can read more about it in the link:/blog/2025/05/02/pipeline-graph-view/[Pipeline Graph View blog post].
+To take full advantage of these features, ensure the Pipeline Graph View plugin is installed on your Jenkins controller.
+You can read more about it in the link:/blog/2025/05/02/pipeline-graph-view/[Pipeline Graph View blog post].
 
 
 == Further Reading
