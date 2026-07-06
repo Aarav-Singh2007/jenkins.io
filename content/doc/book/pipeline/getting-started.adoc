@@ -358,7 +358,7 @@ stage('Stage 1') {
 == Visualizing Pipeline Execution
 
 Once you have defined and run your Pipeline, you can visualize its execution using the link:https://plugins.jenkins.io/pipeline-graph-view/[Pipeline Graph View plugin]. 
-This actively maintained plugin provides a modern, detailed view of your Pipeline's progress, including:
+This plugin provides a modern, detailed view of your Pipeline's progress, including:
 
 1. A graphical representation of all stages and parallel branches.
 2. Support for visualizing nested `parallel` stages.
