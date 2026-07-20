@@ -14,3 +14,9 @@
     }
   }
 }
+
+li:has(.app-author-link) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
