@@ -2,6 +2,7 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  vertical-align: middle;
   gap: 0.75ch;
 
   .app-avatar {
@@ -13,10 +14,4 @@
       height: 1.625rem;
     }
   }
-}
-
-li:has(.app-author-link) {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
 }
